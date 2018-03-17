@@ -1,11 +1,11 @@
 #!/bin/bash
  
-WEB_PATH='/home/wwwroot/vnshop/'
-WEB_PATH_CLIENT='/home/wwwroot/vnshop/client'
+WEB_PATH='/home/wwwroot/music/'
+WEB_PATH_CLIENT='/home/wwwroot/music/my-music'
 WEB_USER='www'
 WEB_USERGROUP='www'
  
-echo "Start deployment vx.kk666.xin"
+echo "Start deployment y.m.evilm.top"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release
